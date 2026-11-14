@@ -154,7 +154,7 @@ with st.sidebar:
 
 st.markdown('<p class="eyebrow">INTERACTIVE VISUALIZATION</p>', unsafe_allow_html=True)
 st.title("Quantum States Explorer")
-st.write("Explore angular wavefunctions, radial probability distributions, and their energy eigenvalues.")
+st.write("Diego Alejandro Valera Contreras.")
 
 tab_angular, tab_radial = st.tabs(["◉  Spherical harmonics", "◌  Radial probability & energy"])
 
